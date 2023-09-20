@@ -23,18 +23,21 @@ def divide(x, y):
 
 
 num_1 = 20
-num_2 = 10
+num_2 = 0
 
-add_result = add(num_1, num_2)
-logging.debug('Add: {} + {} = {}'.format(num_1, num_2, add_result))
+try:
+    add_result = add(num_1, num_2)
+    logging.debug('Add: {} + {} = {}'.format(num_1, num_2, add_result))
 
-sub_result = subtract(num_1, num_2)
-logging.debug('Sub: {} - {} = {}'.format(num_1, num_2, sub_result))
+    sub_result = subtract(num_1, num_2)
+    logging.debug('Sub: {} - {} = {}'.format(num_1, num_2, sub_result))
 
-mul_result = multiply(num_1, num_2)
-logging.debug('mul: {} * {} = {}'.format(num_1, num_2, mul_result))
+    mul_result = multiply(num_1, num_2)
+    logging.debug('mul: {} * {} = {}'.format(num_1, num_2, mul_result))
 
-div_result = divide(num_1, num_2)
-logging.debug('div: {} / {} = {}'.format(num_1, num_2, div_result))
+    div_result = divide(num_1, num_2)
+    logging.debug('div: {} / {} = {}'.format(num_1, num_2, div_result))
+except Exception as e:
+    logging.exception("Exception details:", exc_info=True)
 
 # Instead of printing out output, these results will be appended in the file specified
