@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "pipeline-draft",
+  "private_key_id": "b08361d7f8a6a21a28345ce96556e7f7df4e3fb4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCjP/KyDjlWkyHj\nniLMLGQFFqcd/654BCGl0l+ob9WjjeYEzCr1RDOLB8kMTj9WIReswoisQleQK9LQ\nt+ZY3SBY2MR2mn0nhOP8JiHRKSfGPamyIQtBwA61pLolq3FESzJKbV3q4iZnKE4s\n1Vol7bshFySoX/tYnKyM7kHdpRBmUbir4YvzWSuSEee8FhDPyoGYhrcVQW5X9ukf\nXws7XjcTRjtLiy8alysYSnErGekV8f5mO5vMQKv7K4glFtPVUm23Tilpz01CeR1H\nj0BnBezxtOPX0T+UleupRU+26+brF+uQtph/DRfkGu+YN166iZbF0UaN3zH4fQVd\nzDYPW3DfAgMBAAECggEACHv0UwimNjejVT8Ms+vCrvkEamy1VotwbDvIuOpHAh8H\ny0wJF4IZ46nd6wPOCt3haxsZG0q/XkDIzgwgrpGfcr6hR0C0LG+doachrssixAzE\nWvuYqCwhF5OeEQMd+dymmnOgo+po8IeJuI7GBp6aURfw0cdbOrm5xgFD7w77ETYs\nxvJ4RoEJ+++CAemYhY9lmvmgrdKvzd2Jm7rD9jzZ0dj2gxks3qOWKm7OXVXA43VC\nY+V+G6c+N/V9k07peJ7eNq68hKz7Y2fmO+5KJ7B4S+i8kYjA+OKN6Tk8DLbgXzyP\nCz8ixK+dIJNyy4G5q/iI32rbKiHaeTXDLCp5fCsqQQKBgQDZRa8YxssXLBSkMrCE\nb0eUBkriDbasIByPpG104OPA1sJTp2hiicGY+vJqesCg1lY47+MqW0IJGmHMSutW\n/UiReRtpvAW6cdgFZLbcdULg2Abrj1wEQYnDviaNG0HsQRPa0YDvrop3Za0LN6aC\nqp9Iujo4xajLhLrVNik4Pte+bwKBgQDAWSzyRilTnHHEtSukMQP3w+Xfl+ZVV8VY\nCDgcqrCS5UTketIT+635r4j4sr67wXn1x4dX81+aq5h2fkkxarptVqElV2OmU+ot\nZSLLN8PzRL6eq5JbOFNZZDHBaMkDrM1Tp77nNkAMQtus1hRNuqqnpDAwbrGel9F+\nBwsKiyqskQKBgB2TT79mqBSSaojjYYXVg//RT3Yv+bK6eEjRUBj91+LTGQa8Hghz\nygeh+UenR/tc0cXUWa7VV0rX7YIanKhtt+gdfS7Kalkzz/0D9aRSzfS/U0nTbOoj\nZbZgduz0Tefz/9jkddGqh6yzCXgibicRRLdoqi46MbzqZ2hIhBnk7Ac/AoGAOEuh\nQQNR4xu9nHHd5P9HhwN5yvgdPMskggBd094NMeESScC8rYaSw6ohb5B5DGCy/kE4\nloAvcghY5g1OBL2U9J1PKquqCasztbeM+GdI3XE4TR4wBqy0kEwn19CATKgNrDdD\nQ054bl4/BxXc+WbxvYDrbbFoIN+UO8t56ssSYVECgYAQZrEGHHBqGLbrJqaHRZbS\nP7xHhaL4lG3UOIwxHl25UeVu3LGZAa3Hm+Ji3EdR5Y1OY4VsvQ2IlhZKvszrB3MG\nlHQda3IasuNKYYF7Q0K+NBswwfBtKpKhpbs8TSoE7EDwGkgOqiFBL8yLwKTD79hQ\nOzqqDlTzcZUJBJjM416+Gg==\n-----END PRIVATE KEY-----\n",
+  "client_email": "storage-bucket@pipeline-draft.iam.gserviceaccount.com",
+  "client_id": "108949177988692205769",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/storage-bucket%40pipeline-draft.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
